@@ -4,7 +4,7 @@
 **"Sales Badhao, Tension Ghatayo — Dukaan Dost."**
 Help local shopkeepers increase sales and manage inventory through offline-first sync, analytics, and simple UI.
 
----
+--- 
 
 ## 🚩 Problem Statement
 
