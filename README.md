@@ -63,22 +63,7 @@ Dukandost is a lightweight, offline-first mobile/web app that:
 
 ---
 
----
 
-## 🚀 Demo (3–5 minute video)
-
-**Video link:** (add your recorded video link here)
-
-**Suggested flow for 3–5 min demo**
-
-1. 0:00–0:20 — Quick single-line problem + target user.
-2. 0:20–0:50 — Show app onboarding & offline entry screen.
-3. 0:50–1:40 — Demonstrate entering sales offline and then reconnect and syncing.
-4. 1:40–2:20 — Show dashboard / analytics & low-stock alert.
-5. 2:20–3:00 — Discuss tech stack, architecture, sustainability and next steps.
-   (If you have time, quick user testimonial clip or screencast of multi-store.)
-
----
 
 ## 🤝 Contributing
 
